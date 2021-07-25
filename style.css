@@ -1,0 +1,9 @@
+html, body {
+  margin: 0;
+  padding: 0px;
+  background-color: rgb(10,10,10);
+  /* filter: sepia(40%); */
+}
+canvas {
+  display: block;
+}
