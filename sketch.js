@@ -10,7 +10,8 @@ function setup() {
 
   // createCanvas(6000, 2900);
  
-  createCanvas(screen.width,screen.height-150);
+   createCanvas(1526,840);
+  
   stroke(255, 8, 8, 40);
   strokeWeight(1);
   for (i = 0; i < width; i = i + 40) {
